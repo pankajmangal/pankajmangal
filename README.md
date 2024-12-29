@@ -24,7 +24,7 @@ I'm always excited to learn new things, contribute to open-source projects, and 
 ## 🔥 Popular Repositories
 
 - [Send Money](https://github.com/pankajmangal/send-money) - A simple Flutter-based transactional app using Node.js for backend and implementing bloc state management with unit testing integration.
-- [Weather App](https://github.com/pankajmangal/amala-earth) - An e-commerce app built with Flutter that integrates with a customized UI from the backend.
+- [Amala Earth](https://github.com/pankajmangal/amala-earth) - An e-commerce app built with Flutter that integrates with a customized UI from the backend.
 
 ## 📊 GitHub Stats
 
