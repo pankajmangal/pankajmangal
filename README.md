@@ -8,6 +8,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories and check out
 
 I'm an experienced **Flutter Developer** with a passion for creating beautiful and functional cross-platform mobile apps. I specialize in:
 - **Mobile Development**: Flutter, Dart, Firebase, Kotlin, Push Notifications, Payment Method Integrations
+- **UI/UX**: Figma, Adobe XD
+- **Design Pattern**: MVVM, MVC, and MVP along with SOLID Principal
 - **State Management**: Bloc, Getx, Provider, Riverpod
 - **Backend Integration**: REST APIs, GraphQL
 - **Tools**: Git, GitHub, VS Code, Android Studio, Xcode
@@ -39,4 +41,5 @@ I'm always excited to learn new things, contribute to open-source projects, and 
 ## 🎮 Fun Facts
 
 - I enjoy building both mobile and web apps using Flutter.
+- Recently, I started research on MongoDB, express.js, reach native, and Node.js to upgrade my skill set
 - I have a goal of contributing to at least one open-source Flutter project each month.
